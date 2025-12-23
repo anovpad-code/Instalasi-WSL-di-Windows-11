@@ -19,11 +19,9 @@ Repository ini berisi panduan *lengkap dan sederhana* untuk menginstall *WSL (Wi
 ## Screenshot
 Berikut adalah tampilan *Windows Terminal* di laptop saya yang sudah berhasil menjalankan distro *Ubuntu* dan *Debian* secara bersamaan:
 
-<p align="center">
-  <img src="1000194077.jpg" width="900" alt="Screenshot WSL Angelice" />
-</p>
 
----
+---<img width="1366" height="720" alt="Screenshot 2025-12-23 154001" src="https://github.com/user-attachments/assets/928ad487-ad14-47c0-a817-d123235c49d8" />
+
 
 ## 🛠 Langkah-Langkah Instalasi
 
