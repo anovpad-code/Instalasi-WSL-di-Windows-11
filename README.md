@@ -23,7 +23,7 @@ Berikut adalah tampilan *Windows Terminal* di laptop saya yang sudah berhasil me
 ---<img width="1366" height="720" alt="Screenshot 2025-12-23 154001" src="https://github.com/user-attachments/assets/928ad487-ad14-47c0-a817-d123235c49d8" />
 
 
-## 🛠 Langkah-Langkah Instalasi
+##  Langkah-Langkah Instalasi
 
 ### 1️ Buka Terminal sebagai Administrator
 1.  Klik tombol *Start*.
